@@ -46,7 +46,7 @@ darglint==1.5.5
 dbus-python==1.2.16
 debugpy==1.8.0
 decorator==5.1.1
-defer==1.0.6
+# defer==1.0.6
 defusedxml==0.7.1
 dfx==0.0.4
 distlib==0.3.1
