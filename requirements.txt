@@ -52,7 +52,7 @@ dfx==0.0.4
 distlib==0.3.1
 distro==1.4.0
 distro-info===0.23ubuntu1
-Django==2.2.13
+Django
 django-cors-headers==3.2.1
 django-crispy-forms==1.7.2
 django-forms-bootstrap==3.1.0
@@ -96,8 +96,8 @@ flatbuffers==23.5.26
 fonttools==4.46.0
 future==0.18.2
 gast==0.4.0
-gitdb==4.0.5
 gunicorn
+gitdb==4.0.5
 GitPython==3.1.9
 google-auth==2.23.2
 google-auth-oauthlib==1.0.0
