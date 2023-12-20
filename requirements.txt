@@ -40,7 +40,7 @@ coverage==5.3
 coveralls==3.3.1
 crispy-bootstrap4==2023.1
 cryptography==38.0.1
-cupshelpers==1.0
+# cupshelpers==1.0
 cycler==0.12.1
 darglint==1.5.5
 dbus-python==1.2.16
