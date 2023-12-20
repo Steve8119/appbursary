@@ -28,7 +28,9 @@ nbformat==5.9.2
 nest-asyncio==1.5.8
 # netifaces==0.10.4
 gunicorn
-django
+Django>=3.2,<4.0
+django-crispy-forms==1.11.2
+
 # crispy_forms
 djangorestframework==3.12.4
 
