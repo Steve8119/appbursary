@@ -34,7 +34,7 @@ click==7.1.2
 
 colorama==0.4.4
 comm==0.1.4
-command-not-found==0.3
+# command-not-found==0.3
 contourpy==1.1.1
 coverage==5.3
 coveralls==3.3.1
