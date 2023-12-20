@@ -30,3 +30,4 @@ nest-asyncio==1.5.8
 gunicorn
 django
 # crispy_forms
+rest_framework
