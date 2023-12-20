@@ -29,4 +29,4 @@ nest-asyncio==1.5.8
 # netifaces==0.10.4
 gunicorn
 django
-crispy_forms
+# crispy_forms
